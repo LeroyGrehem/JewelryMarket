@@ -15,3 +15,20 @@
 # 10 Create new path in urls.py and create new one in app
 # 11 Create function in views.py
 # Create models for database
+
+- Create models (Profile, Category, Customer, ItemsForSale, BlogArticle)
+        - Profile
+        - Category
+        - Customer
+        - ItemsForSale
+        - BlogArticle
+          - Using RichTextField
+                - (pip install django-ckeditor)
+                - add ckeditor to app in settings
+
+- Create views
+- Create templates
+
+
+
+
